@@ -14,4 +14,4 @@ AI strategy · AI consulting · AI products · Python · SQL · Generative AI
 [How Can Companies Evaluate ROI of AI Projects Before Implementation? A Pre-Implementation Readiness Assessment Framework](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7515980) (SSRN, 2026)
 
 ### Links
-[Website](https://manuelportugalreis.com) · [LinkedIn](https://www.linkedin.com/in/manuelportugalreis/)
+[Website](https://manuelportugalreis.com) · [LinkedIn](https://www.linkedin.com/in/manuelportugalreis/) · [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=13299588) · [ORCID](https://orcid.org/0009-0008-5924-409X)
